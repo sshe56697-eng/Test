@@ -3,5 +3,5 @@
 
 ---
 
-Asi se separa
+Asi es como se separa
 
