@@ -2,3 +2,5 @@
 ---
 **Integrante:**
 - Samuel David Moreno Cruz
+
+# Pasos
