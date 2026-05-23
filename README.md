@@ -1,4 +1,4 @@
-## Mayuscula y Grande
+# Mayuscula y Grande
 ---
 **Integrante:**
 - Samuel David Moreno Cruz
